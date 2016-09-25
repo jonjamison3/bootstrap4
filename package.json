@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "Yoink?",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install font-awesome --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonjamison3/bootstrap4"
+  },
+  "keywords": [
+    "bootstrap4",
+    "bootstrap",
+    "funzies",
+    "jcodes"
+  ],
+  "author": "Jon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonjamison3/bootstrap4/issues"
+  },
+  "homepage": "https://github.com/jonjamison3/bootstrap4#readme"
+}
